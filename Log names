@@ -1,0 +1,7 @@
+let names = ["Addison", "Blake", "Sam", "August"]
+
+// loop over names and log each name
+
+names.forEach(function(names) {
+      console.log(names)
+})
