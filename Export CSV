@@ -1,0 +1,6 @@
+/**
+ * @param {string[]} users
+ */
+ function exportCSV(users) {
+  return users.join(", ")
+ }
