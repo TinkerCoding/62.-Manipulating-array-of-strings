@@ -1,1 +1,7 @@
+let users = ["Sam", "Alex", "Charlie"]
+
+users.forEach(function(user) {
+      console.log(user)
+})
+
 
