@@ -1,0 +1,9 @@
+/**
+ * @param {string[]} names
+ */
+function getInitials(names) {
+    return names.map(function(names) {
+       return names[0]
+       })
+   }
+       
