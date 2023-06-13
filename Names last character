@@ -1,0 +1,8 @@
+/**
+* @param {string[]} names
+*/
+function getLastNameChar(names) {
+       return names.map(function(names) {
+           return names[names.length - 1]
+           })
+      }
