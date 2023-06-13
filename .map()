@@ -1,0 +1,6 @@
+let users = ["SAM", "CHARLIE", "ALEX"]
+
+let lowercased = users.map(function(user) {
+     return user.toLowerCase()
+})
+console.log(lowercased)  // ["sam", "charlie", "alex"]
