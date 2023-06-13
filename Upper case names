@@ -1,0 +1,10 @@
+/**
+* @param {string[]} names
+*/
+function upperCaseNames(names) {
+    return names.map(function(name) {
+        return name.toUpperCase()
+        })
+ }
+ 
+     
